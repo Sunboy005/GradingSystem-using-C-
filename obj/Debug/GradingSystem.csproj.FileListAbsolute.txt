@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Classroom\VS2019\Assignments\Week3Task\GradingSystem\bin\Debug\GradingSystem.dll
+C:\Users\hp\Documents\Classroom\VS2019\Assignments\Week3Task\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\hp\Documents\Classroom\VS2019\Assignments\Week3Task\GradingSystem\obj\Debug\GradingSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Classroom\VS2019\Assignments\Week3Task\GradingSystem\obj\Debug\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Classroom\VS2019\Assignments\Week3Task\GradingSystem\obj\Debug\GradingSystem.dll
+C:\Users\hp\Documents\Classroom\VS2019\Assignments\Week3Task\GradingSystem\obj\Debug\GradingSystem.pdb

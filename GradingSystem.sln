@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingSystem", "GradingSystem.csproj", "{FD486C8C-55F4-479E-9DEA-6101F8FF10E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testings", "Testings", "{C9F7ABEA-EE07-48E5-9C90-30A8AB5CAB4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingSystemTests", "..\Tests\GradingSystemTests\GradingSystemTests.csproj", "{63F14E88-7AC7-4BEE-9149-C07AAC6D9E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD486C8C-55F4-479E-9DEA-6101F8FF10E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD486C8C-55F4-479E-9DEA-6101F8FF10E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD486C8C-55F4-479E-9DEA-6101F8FF10E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD486C8C-55F4-479E-9DEA-6101F8FF10E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F14E88-7AC7-4BEE-9149-C07AAC6D9E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F14E88-7AC7-4BEE-9149-C07AAC6D9E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F14E88-7AC7-4BEE-9149-C07AAC6D9E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F14E88-7AC7-4BEE-9149-C07AAC6D9E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63F14E88-7AC7-4BEE-9149-C07AAC6D9E25} = {C9F7ABEA-EE07-48E5-9C90-30A8AB5CAB4B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1D4109-9401-45DE-8ED3-A0554DA5766A}
+	EndGlobalSection
+EndGlobal
